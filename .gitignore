@@ -11,3 +11,6 @@ dist/
 
 # Ignorar arquivos de configuração locais
 *.env
+
+.vs/
+
